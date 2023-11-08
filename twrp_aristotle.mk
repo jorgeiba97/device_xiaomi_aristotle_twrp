@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/aristotle/device.mk)
 
 PRODUCT_DEVICE := aristotle
-PRODUCT_NAME := omni_aristotle
+PRODUCT_NAME := twrp_aristotle
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2306EPN60G
 PRODUCT_MANUFACTURER := xiaomi
