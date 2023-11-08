@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_LUNCH_CHOICES twrp_aristotle-user
-COMMON_LUNCH_CHOICES twrp_aristotle-userdebug
-COMMON_LUNCH_CHOICES twrp_aristotle-eng
+add_lunch_combo twrp_aristotle-user
+add_lunch_combo twrp_aristotle-userdebug
+add_lunch_combo twrp_aristotle-eng
