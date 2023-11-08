@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_aristotle-user
-add_lunch_combo omni_aristotle-userdebug
-add_lunch_combo omni_aristotle-eng
+add_lunch_combo twrp_aristotle-user
+add_lunch_combo twrp_aristotle-userdebug
+add_lunch_combo twrp_aristotle-eng
