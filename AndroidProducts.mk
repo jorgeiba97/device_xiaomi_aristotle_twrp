@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_aristotle.mk
+    $(LOCAL_DIR)/twrp_aristotle.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_aristotle-user \
-    omni_aristotle-userdebug \
-    omni_aristotle-eng
+    twrp_aristotle-user \
+    twrp_aristotle-userdebug \
+    twrp_aristotle-eng
